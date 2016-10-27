@@ -24,6 +24,7 @@
 - [Usage](#usage)
 - [Screenshots](#screenshots)
 - [License](#license)
+
 ## Synopsis
 This is my resume, in digital form
 
@@ -66,4 +67,5 @@ $ chromium main.html
 
 
 ## License
+
 [BSD](LICENSE) Copyright (c) 2016 [Josh Cannons](http://joshcannons.com).
