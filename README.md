@@ -65,7 +65,8 @@ $ chromium main.html
 
 ## Screenshots
 
+[View the web site here](https://www.joshcannons.com)
 
 ## License
 
-[BSD](LICENSE) Copyright (c) 2016 [Josh Cannons](http://joshcannons.com).
+[BSD](LICENSE) Copyright (c) 2016 [Josh Cannons](https://www.joshcannons.com).
